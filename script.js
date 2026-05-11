@@ -18,9 +18,9 @@
 // x = 20; // Output : TypeError : Assignment to constant variable.
 
 // Q5
-var p = 5;
-var p = 10;
-console.log(p); // Output : 10
+// var p = 5;
+// var p = 10;
+// console.log(p); // Output : 10
 
 // Q6
 let q = 25;
@@ -141,24 +141,24 @@ console.log(10/2); // Output : 5
 
 //Section - 7 : Increment/Decrement 
 // Q33.
-let a = 5;
-a++;
-console.log(a); // Output : 6
+// let a = 5;
+// a++;
+// console.log(a); // Output : 6
 
 // Q34.
-let b = 5;
-let c = b++;
-console.log(b,c); // Output : 5 6
+// let b = 5;
+// let c = b++;
+// console.log(b,c); // Output : 5 6
 
 // Q35.
-let x = 5;
-let y = ++x;
-console.log(x,y); // Output : 6 6
+// let x = 5;
+// let y = ++x;
+// console.log(x,y); // Output : 6 6
 
 // Q36.
-let m =3;
-let n = m--;
-console.log(m,n); // Output : 2 3
+// let m =3;
+// let n = m--;
+// console.log(m,n); // Output : 2 3
 
 //Section - 8 : Comparison & Logical 
 // Q37.
