@@ -23,9 +23,9 @@
 // console.log(p); // Output : 10
 
 // Q6
-let q = 25;
-q = q + 10;
-console.log(q); // Output : 35
+// let q = 25;
+// q = q + 10;
+// console.log(q); // Output : 35
 
 // Q7
 const r = 7;
@@ -69,11 +69,11 @@ console.log(r+7); // Output : 14
 // -->  Object is the type of null
 
 // Q18 : Convert string to number: "25"
-let str = "25";
-let num = Number(str); 
+// let str = "25";
+// let num = Number(str); 
 
-console.log(num);
-console.log(typeof num); // Output : 25
+// console.log(num);
+// console.log(typeof num); // Output : 25
 
 // Section - 4 : Arrays
 // Q19. Create array of 3 fruits.
@@ -97,35 +97,35 @@ console.log(typeof num); // Output : 25
 // console.log(arr.length); // Output : 2
 
 // Q24. Add new element to array.
-let fruits = ["Apple", "Mango","Kiwi"];
-fruits.push("Grapes");
-console.log(fruits); // Output : ['Apple','Mango','Kiwi','Grapes']
+// let fruits = ["Apple", "Mango","Kiwi"];
+// fruits.push("Grapes");
+// console.log(fruits); // Output : ['Apple','Mango','Kiwi','Grapes']
 
 // Section - 5 : Objects
 // Q25. Create object with name & age.
-let person = {
-    name : "Jack",
-    age : 23
-};
-console.log(person); // Output : {name : 'Jack', age : 23 }
+// let person = {
+//     name : "Jack",
+//     age : 23
+// };
+// console.log(person); // Output : {name : 'Jack', age : 23 }
 
 // Q26
 // let obj = {name:"Naveen"};
 // console.log(obj.name); // Output : Naveen
 
 // Q27
-let obj = {
-    fruits: ["apple","banana"]
-};
-console.log(obj.fruits[1]); // Output : banana
+// let obj = {
+//     fruits: ["apple","banana"]
+// };
+// console.log(obj.fruits[1]); // Output : banana
 
 // Q28. How to access last element inside object array?
-let students = [
-    {name : "Pooja", age : 23},
-    {name : "Sanvi", age : 25},
-    {name : "Joey", age : 22}
-]
-console.log(students[students.length-1]); // Output : {name :'Joey', age : 22}
+// let students = [
+//     {name : "Pooja", age : 23},
+//     {name : "Sanvi", age : 25},
+//     {name : "Joey", age : 22}
+// ]
+// console.log(students[students.length-1]); // Output : {name :'Joey', age : 22}
 
 // Section - 6 : Arithmetic Operators
 // Q29

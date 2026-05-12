@@ -54,27 +54,27 @@ else{
 } // output : Pass
 
 //Task 6 - Voting Eligibility
-let age = 20
-if(age >= 18){
-    console.log("Is eligible to vote");
-}
-else{
-    console.log("Not eligible to vote");
-} // output : Is eligible to vote
+// let age = 20
+// if(age >= 18){
+//     console.log("Is eligible to vote");
+// }
+// else{
+//     console.log("Not eligible to vote");
+// } // output : Is eligible to vote
 
 //Task 7 - Greatest Number
-let a = 50
-let b = 80
-let c = 3
-if(a > b && a > c){
-    console.log("B is greatest");
-}
-else if(b > a && b > c){
-    console.log("B is greatest");
-}
-else{
-    console.log("C is a greatest");
-} // output : B is greater
+// let a = 50
+// let b = 80
+// let c = 3
+// if(a > b && a > c){
+//     console.log("B is greatest");
+// }
+// else if(b > a && b > c){
+//     console.log("B is greatest");
+// }
+// else{
+//     console.log("C is a greatest");
+// } // output : B is greater
 
 //Task 8 - Traffic Light System
 let color = "red";
