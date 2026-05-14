@@ -1,11 +1,11 @@
-//Looping statment
-//1. Print numbers
+// Looping statment
+// 1. Print numbers
 // let a = 1
 // for(let a=1; a<=20; a++){
 //    console.log(a); 
 // }
 
-//2. Odd numbers
+// 2. Odd numbers
 // let i = 1
 // for(let i=1; a<=50; a++){
 //     if(i % 2 != 0){
@@ -13,7 +13,7 @@
 //     }
 // }
 
-//3. Multiplication Table 
+// 3. Multiplication Table 
 // let num = 7;
 // let i = 1;
 // while(i <= 10){
@@ -21,14 +21,14 @@
 //     i++;
 // }
 
-//4. Reverse Counting
+// 4. Reverse Counting
 // let i = 20;
 // while(i >= 1){
 //     console.log(i);
 //     i--;
 // }
 
-//5. Sum of numbers
+// 5. Sum of numbers
 // let sum = 0;
 // for(let i = 1; i <= 100; i++){
 //     sum += i;
@@ -105,7 +105,7 @@
 // }
 // console.log(largest(10,50)); // Output : 50
 
-//15. Employee Task
+// 15. Employee Task
 // let employee = {
 //     name: "Pooja",
 //     department: "Software Development",

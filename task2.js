@@ -45,13 +45,13 @@ console.log(Boolean([])); // output :  true
 console.log(Boolean({})); // output : true
 
 //Task 5 - Student Pass or Fail
-let mark = 45
-if(mark > 35){
-    console.log("Pass");
-}
-else{
-    console.log("Fail");
-} // output : Pass
+// let mark = 45
+// if(mark > 35){
+//     console.log("Pass");
+// }
+// else{
+//     console.log("Fail");
+// } // output : Pass
 
 //Task 6 - Voting Eligibility
 // let age = 20
@@ -93,19 +93,19 @@ switch(color){
 } // output : Stop
 
 //Task 9 - Login System
-let username = "admin";
-let password = "1234";
-if(username === "admin"){
-    if(password === "1234"){
-        console.log("Login Success");
-    }
-    else{
-        console.log("Invalid Login");
-    }
-}
-else{
-    console.log('Invalid Login'); // output : Login Success
-}
+// let username = "admin";
+// let password = "1234";
+// if(username === "admin"){
+//     if(password === "1234"){
+//         console.log("Login Success");
+//     }
+//     else{
+//         console.log("Invalid Login");
+//     }
+// }
+// else{
+//     console.log('Invalid Login'); // output : Login Success
+// }
 
 //Task 10 - Session Finder
 let hour = 14
