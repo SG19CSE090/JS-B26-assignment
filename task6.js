@@ -75,3 +75,4 @@ console.log("\nTotal Score of All Players:");
 console.log(totalScore);
 
 
+console.clear();
